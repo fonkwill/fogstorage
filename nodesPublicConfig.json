@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "name": "AAA",
+      "type": "AWS",
+      "url": "www.example.at"
+    },
+    {
+      "name": "BBB",
+      "type": "GCP",
+      "url": "www.example.de"
+    }
+  ]
+}
